@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: st.finasncas.imposto
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [app-name, cache-caffeine, github-workflow-ci, http-client-test, java, java-application, jdbc-hikari, junit, logback, maven, maven-enforcer-plugin, micronaut-aot, mysql, netty-server, openapi, properties, readme, serialization-jackson, shade, swagger-ui, test-resources]
